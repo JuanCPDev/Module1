@@ -1,0 +1,3 @@
+The current weather condition is cloudy
+The temperature is 50.0
+It is most likely going to rain.
